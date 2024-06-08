@@ -58,7 +58,7 @@ void quickSort(int a[],int left,int right){
 	/*std::uniform_int_distribution<int> distribution(left, right); // left和right是随机数的范围  
 		  
 	
-		// 生成一个随机数  
+		// c++生成一个随机数  
 	
 	int random_number = distribution(generator);*/
 	srand((unsigned)time(NULL));
