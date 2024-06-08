@@ -9,7 +9,7 @@ int compare(const void* a,const void* b){
 
 void quick_sort(int* q,int l,int r){
 	
-	
+	//test
 }
 
 
